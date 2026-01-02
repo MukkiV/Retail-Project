@@ -1,34 +1,49 @@
-🛒 Retail Project – Sales & Customer Insights
-📌 Project Overview
+# 🛒 Retail Sales Analysis
 
-This project analyzes retail sales data (2016–2017) to uncover trends, customer demographics, and product performance insights. 
-The goal is to provide data-driven strategies that improve sales, optimize inventory, and enhance customer engagement.
+## 📌 Project Description
+This project analyzes retail transaction, product, and household demographic data to understand sales trends, customer purchasing behavior, and product performance. The goal is to study how time, customer demographics, and product mix influence overall retail sales.
 
-The analysis is performed using Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook, and the results are summarized in a presentation (PPT) with visualizations and strategic recommendations.
+The project combines structured data analysis and visual summaries to present clear insights into retail growth patterns and customer segments.
 
-📊 Key Analyses
-1. Time-Based Sales Analysis
-Monthly sales trend shows consistent year-over-year growth.
-December is the peak sales month (holiday/festive season).
-Weekends account for almost double the sales of weekdays.
+---
 
-✅ Strategies: Pre-festival campaigns, weekend flash offers, optimized staffing & stock alignment.
+## 📂 Project Files
+- **hh_demographic.csv** – Household and customer demographic information  
+- **product.csv** – Product and department-level details  
+- **project_transactions.csv** – Retail transaction-level sales data  
+- **Retail Project.ipynb** – Analysis notebook with data preparation and exploration  
+- **Retail-Project-Analysis-and-Insights.pptx** – Presentation summarizing findings  
 
-2. Demographic Analysis
-Core customer group: Families aged 35–54 with income between $50K–$99K.
-Singles and lower-income segments remain under-penetrated.
+---
 
-✅ Strategies: Introduce family bundles & loyalty tiers, Launch budget packs for low-income groups.
+## 🛠️ Tools & Technologies
+- Python  
+- Pandas  
+- NumPy  
+- Jupyter Notebook  
+- Microsoft PowerPoint  
 
-3. Product Performance Analysis
-Groceries & Beverages are the highest revenue drivers.
-Average basket size increased from $28 (2016) → $42 (2017).
-Pareto Rule (80/20): 20% of SKUs contribute ~80% of sales.
+---
 
-✅ Strategies:Ensure stock availability of top SKUs, Use cross-selling & bundling to boost basket size.
+## 🔍 Scope of Analysis
+- Time-based sales analysis (monthly, yearly, and weekday trends)  
+- Year-over-year sales comparison (2016 vs 2017)  
+- Customer demographic analysis by age, income, and household type  
+- Department-level and product-level sales analysis  
+- Basket size trend analysis  
+- Identification of top-performing products using the 80/20 rule  
 
-🛠️ Tech Stack
+---
 
-Language: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Tools: Jupyter Notebook, PowerPoint
+## 📈 Key Insights
+- Sales show strong seasonality, with **December as the highest sales month** in both 2016 and 2017.
+- **Year-over-year growth** is observed across all months, with December 2017 reaching **$2.4M**, up from **$2.1M in December 2016**.
+- **Weekends generate the highest sales**, with Saturday and Sunday contributing nearly double compared to mid-week days.
+- Customers aged **35–54** and households with **mid-to-high income ($50K–$99K)** contribute the largest share of revenue.
+- Around **20% of products drive nearly 80% of total sales**, confirming strong product concentration.
+
+---
+
+## 👤 Author
+**Mukesh V**  
+Data Analyst | Python | Data Analysis
