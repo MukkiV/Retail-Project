@@ -8,9 +8,6 @@ The project combines structured data analysis and visual summaries to present cl
 ---
 
 ## 📂 Project Files
-- **hh_demographic.csv** – Household and customer demographic information  
-- **product.csv** – Product and department-level details  
-- **project_transactions.csv** – Retail transaction-level sales data  
 - **Retail Project.ipynb** – Analysis notebook with data preparation and exploration  
 - **Retail-Project-Analysis-and-Insights.pptx** – Presentation summarizing findings  
 
